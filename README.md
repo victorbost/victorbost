@@ -27,7 +27,7 @@
 - **ChatGPT Integration**: Deployed a ChatGPT agent in a mobile app for AI-driven conversations.
 - **Cost Savings**: Saved $11K annually by replicating external tool features in-house.
 - **Retention Boost**: Led a project improving mobile app retention by 5%.
-- **Open source**: create a plugin to batch upload pictures in sanity wiht cloudinary in [npm] (https://www.npmjs.com/package/batch-upload-sanity-plugin-cloudinary)
+- **Open source**: create a plugin to batch upload pictures in sanity wiht cloudinary in [npm](https://www.npmjs.com/package/batch-upload-sanity-plugin-cloudinary)
 
 ---
 
