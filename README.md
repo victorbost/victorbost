@@ -4,8 +4,9 @@
 
 - 🌍 Based in Paris, France
 - 💻 Passionate about backend development, data pipelines, and building efficient, scalable solutions
+- 📚 Graduated with a master's degree in ML and trained in web-dev
 - 🎨 Former gallery assistant, blending creativity with tech
-- 📚 Always learning, always building
+- 💡 Always learning, always building
 
 ---
 
