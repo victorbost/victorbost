@@ -14,7 +14,7 @@
 | **Backend**       | **Frontend**      | **Data**          | **DevOps**        |
 |-------------------|-------------------|-------------------|-------------------|
 | Python, Django    | React, Next.js    | SQL, NoSQL        | Docker            |
-| GraphQL           | TypeScript        | ETL Pipelines     |                   |
+| GraphQL           | TypeScript        | ETL Pipelines     | AWS               |
 |                   | JavaScript, HTML  | Data Analysis     |                   |
 |                   | CSS               |                   |                   |
 
@@ -27,21 +27,13 @@
 - **ChatGPT Integration**: Deployed a ChatGPT agent in a mobile app for AI-driven conversations.
 - **Cost Savings**: Saved $11K annually by replicating external tool features in-house.
 - **Retention Boost**: Led a project improving mobile app retention by 5%.
-
----
-
-### 📈 GitHub Stats
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbost&show_icons=true&theme=radical)](https://github.com/victorbost)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbost&layout=compact&theme=radical)](https://github.com/victorbost)
+- **Open source**: create a plugin to batch upload pictures in sanity wiht cloudinary in [npm] (https://www.npmjs.com/package/batch-upload-sanity-plugin-cloudinary)
 
 ---
 
 ### 🔗 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/victor-bostaetter-460bb2164/en)
-- [Portfolio](https://github.com/victorbost) (or link to personal website if available)
 - Email: vic.bostaetter@gmail.com
 
 ---
