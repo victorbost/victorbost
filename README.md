@@ -35,6 +35,6 @@
 ### 🔗 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/victor-bostaetter-460bb2164/en)
-- Email: vic.bostaetter@gmail.com
+- Email: victor@bostaetter.com
 
 ---
