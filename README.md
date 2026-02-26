@@ -25,10 +25,10 @@
 
 - **ETL Pipeline Refactor**: Redesigned and migrated a core ingestion pipeline, improving speed and visibility.
 - **Analytics Pipeline**: Built a unified analytics pipeline merging SQL and NoSQL data sources.
-- **ChatGPT Integration**: Deployed a ChatGPT agent in a mobile app for AI-driven conversations.
 - **Cost Savings**: Saved $11K annually by replicating external tool features in-house.
 - **Retention Boost**: Led a project improving mobile app retention by 5%.
 - **Open source**: create a plugin to batch upload pictures in sanity wiht cloudinary in [npm](https://www.npmjs.com/package/batch-upload-sanity-plugin-cloudinary)
+- **Kuroshio-lab** : founder and admin of Kuroshio-lab an opensource project of tools for marine biology [github](https://github.com/kuroshio-lab), [website](https://kuroshio-lab.com/)
 
 ---
 
