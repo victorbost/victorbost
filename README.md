@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | Data Enthusiast | Python & JavaScript Lover
 
+my portofolio : ssh ssh.bostaetter.com
+
 - 🌍 Based in Paris, France
 - 💻 Passionate about backend development, data pipelines, and building efficient, scalable solutions
 - 📚 Graduated with a master's degree in ML and trained in web-dev
